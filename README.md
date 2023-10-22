@@ -16,3 +16,6 @@ This site does not store any files on our server, we only linked to the media wh
   <li> JS </li>
   <li> And other good npms </li>
 </ul>
+
+<p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
+<p> Enjoy </p>
