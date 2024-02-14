@@ -1,6 +1,6 @@
 #Vidly 
 
-<h1> Vidly Study </h1>
+<h1> Vidly Movie Site</h1>
 
 <p>
 Vidly is top of free Movie and Tv Shows static website, where to watch movies trailers and all information online free without registration required. With a big database and great features, we're confident Vidly is the best free movies online website in the space that you can't simply miss!
